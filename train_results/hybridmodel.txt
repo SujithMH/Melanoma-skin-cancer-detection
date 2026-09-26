@@ -1,0 +1,22 @@
+
+Epoch 1/15 | Time: 153s | T-Loss: 1.3873 (Cls: 1.0005, Sev: 0.7737) | V-Loss: nan | V-Acc: 0.7558 | V-Macro-F1: 0.4412
+Epoch 2/15 | Time: 150s | T-Loss: 0.9225 (Cls: 0.6460, Sev: 0.5530) | V-Loss: nan | V-Acc: 0.7966 | V-Macro-F1: 0.5963
+Epoch 3/15 | Time: 152s | T-Loss: 0.8164 (Cls: 0.5651, Sev: 0.5027) | V-Loss: nan | V-Acc: 0.8183 | V-Macro-F1: 0.6602ing version inf
+Epoch 4/15 | Time: 153s | T-Loss: 0.7077 (Cls: 0.4873, Sev: 0.4409) | V-Loss: nan | V-Acc: 0.8124 | V-Macro-F1: 0.6518
+Epoch 5/15 | Time: 153s | T-Loss: 0.6322 (Cls: 0.4322, Sev: 0.3999) | V-Loss: nan | V-Acc: 0.8097 | V-Macro-F1: 0.6262
+Epoch 6/15 | Time: 153s | T-Loss: 0.5532 (Cls: 0.3757, Sev: 0.3549) | V-Loss: nan | V-Acc: 0.8097 | V-Macro-F1: 0.6633ing version inf
+Epoch 7/15 | Time: 153s | T-Loss: 0.4608 (Cls: 0.3111, Sev: 0.2995) | V-Loss: nan | V-Acc: 0.8361 | V-Macro-F1: 0.6787
+Epoch 8/15 | Time: 153s | T-Loss: 0.3979 (Cls: 0.2680, Sev: 0.2598) | V-Loss: nan | V-Acc: 0.8097 | V-Macro-F1: 0.6680
+Epoch 9/15 | Time: 153s | T-Loss: 0.3175 (Cls: 0.2150, Sev: 0.2050) | V-Loss: nan | V-Acc: 0.8262 | V-Macro-F1: 0.6642
+Epoch 10/15 | Time: 152s | T-Loss: 0.2863 (Cls: 0.1922, Sev: 0.1881) | V-Loss: nan | V-Acc: 0.8367 | V-Macro-F1: 0.6948
+Epoch 11/15 | Time: 152s | T-Loss: 0.2459 (Cls: 0.1643, Sev: 0.1632) | V-Loss: nan | V-Acc: 0.8407 | V-Macro-F1: 0.6998
+Epoch 12/15 | Time: 152s | T-Loss: 0.2119 (Cls: 0.1419, Sev: 0.1401) | V-Loss: nan | V-Acc: 0.8453 | V-Macro-F1: 0.7023
+Epoch 13/15 | Time: 153s | T-Loss: 0.1734 (Cls: 0.1161, Sev: 0.1146) | V-Loss: nan | V-Acc: 0.8420 | V-Macro-F1: 0.7030
+Epoch 14/15 | Time: 153s | T-Loss: 0.1592 (Cls: 0.1062, Sev: 0.1059) | V-Loss: nan | V-Acc: 0.8400 | V-Macro-F1: 0.6988
+Epoch 15/15 | Time: 153s | T-Loss: 0.1507 (Cls: 0.0999, Sev: 0.1016) | V-Loss: nan | V-Acc: 0.8433 | V-Macro-F1: 0.7024
+--- Training Hybrid Model (Concat Fusion) ---
+======================================ed requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downlo
+PHASE C RESULTS
+Hybrid Model Best Macro-F1: 0.7030
+(Target to beat: 0.6981)
+======================================

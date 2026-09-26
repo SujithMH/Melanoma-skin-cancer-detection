@@ -1,0 +1,403 @@
+uating Config #1:
+  Fusion: concat | FC Hidden: 128 | Dropout: 0.52
+  Head LR: 1.22e-04 | BB Mult: 0.31
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+    Seed 42 -> Proxy Val Macro-F1: 0.4802 (403.9s)
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error _ssl.c:993: The handshake operation timed out>
+  data = fetch_version_info()
+    Seed 101 -> Proxy Val Macro-F1: 0.5036 (417.7s)
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error _ssl.c:993: The handshake operation timed out>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error _ssl.c:993: The handshake operation timed out>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info The read operation timed out
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [WinError 10065] A socket operation was attempted to an unreachable host>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+    Seed 2024 -> Proxy Val Macro-F1: 0.4699 (444.8s)
+  Summary Config #1: Mean = 0.4846 ± 0.0141
+
+Evaluating Config #2:
+  Fusion: concat | FC Hidden: 320 | Dropout: 0.55
+  Head LR: 4.48e-04 | BB Mult: 0.18
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+    Seed 42 -> Proxy Val Macro-F1: 0.5422 (375.7s)
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info The read operation timed out
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error _ssl.c:993: The handshake operation timed out>
+  data = fetch_version_info()
+    Seed 101 -> Proxy Val Macro-F1: 0.4935 (424.2s)
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error _ssl.c:993: The handshake operation timed out>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+    Seed 2024 -> Proxy Val Macro-F1: 0.5127 (396.7s)
+  Summary Config #2: Mean = 0.5161 ± 0.0200
+
+Evaluating Config #3:
+  Fusion: concat | FC Hidden: 832 | Dropout: 0.19
+  Head LR: 2.75e-05 | BB Mult: 0.98
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+    Seed 42 -> Proxy Val Macro-F1: 0.5028 (380.3s)
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error [Errno 11001] getaddrinfo failed>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error _ssl.c:993: The handshake operation timed out>
+  data = fetch_version_info()
+D:\projects\melanoma-hpo\mel-venv-3.12\Lib\site-packages\albumentations\check_version.py:147: UserWarning: Error fetching version info <urlopen error _ssl.c:993: The handshake operation timed out>
+  data = fetch_version_info()
+    Seed 101 -> Proxy Val Macro-F1: 0.5028 (397.7s)
+    Seed 2024 -> Proxy Val Macro-F1: 0.4969 (396.9s)
+  Summary Config #3: Mean = 0.5008 ± 0.0028
+
+==================================================
+NOISE FLOOR BENCHMARK: Mean Std Dev = ±0.0123
+RESULT: Noise floor is within acceptable limits (<= 0.02). Ready for Phase E.
+==================================================
